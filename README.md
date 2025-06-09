@@ -17,26 +17,25 @@ A Course-selling platform where users could purchase courses and admins could ma
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homePage.png)
+![Homepage](./src/screenshots/homePage.png)
 
 ###  Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./src/screenshots/dashboard.png)
 
 ### Login
-![Login Page](./loginPage.png)
-## 📸 Screenshots
+![Login Page](./src/screenshots/loginPage.png)
 
 ### About Course
-![About Course](./screenshots/aboutCourse.png)
+![About Course](./src/screenshots/aboutCourse.png)
 
 ### Explore Page
-![Explore Page](./screenshots/explorePage.png)
+![Explore Page](./src/screenshots/explorePage.png)
 
 ### Cart Page
-![Cart Page](./screenshots/cartPage.png)
+![Cart Page](./src/screenshots/cartPage.png)
 
 ### WishList Page
-![Wishlist](./screenshots/wishlist.png)
+![Wishlist](./src/screenshots/wishlist.png)
 
 ### Lecture Screen
-![Lecture screen](./screenshots/lecture.png)
+![Lecture screen](./src/screenshots/lecture.png)
